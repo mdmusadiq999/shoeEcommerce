@@ -1,0 +1,11 @@
+.links{
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+body{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

@@ -1,0 +1,35 @@
+.add-product-container {
+    background-color: rgba(255, 255, 255, 0.3);
+    /* Transparent background */
+    border-radius: 10px;
+    color: black;
+    /* Text color black */
+    backdrop-filter: blur(10px);
+    /* Optional: adds a blur effect to the background */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    /* Optional: adds a subtle shadow */
+}
+
+.add-product-container .form-control,
+.add-product-container .form-select {
+    background-color: transparent;
+    /* Transparent input fields */
+    color: black;
+    /* Text color black */
+}
+
+.add-product-container .btn {
+    color: white;
+}
+
+.add-product-container .btn-secondary {
+    background-color: #333;
+    /* Dark button color */
+    border-color: #333;
+}
+
+.add-product-container .btn-danger {
+    background-color: #e74c3c;
+    /* Danger button color */
+    border-color: #e74c3c;
+}
