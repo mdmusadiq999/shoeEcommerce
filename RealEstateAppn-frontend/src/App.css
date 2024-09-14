@@ -1,0 +1,33 @@
+.footer {
+  background-color: black;
+  color: white;
+  border-top: 1px solid #280a0a;
+  margin-top: 80px;
+  font-family: Consolas;
+}
+
+.links {
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.footer-text {
+  margin: 0;
+}
+
+.footer-hr {
+  border-top: 1px solid white;
+}
+
+.icon-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 10px;
+}
+
+.icon {
+  color: black;
+  margin-right: 39px;
+  cursor: pointer; 
+}
