@@ -211,7 +211,7 @@ Admin users can manage products and users.
 Supports adding new products, updating existing ones, and deleting products.
 Admin has access to user management features like viewing and deleting users.
 Deployment
-The application can be deployed using services like Vercel for the frontend and Heroku or AWS for the backend. The project can also be containerized using Docker and orchestrated via Kubernetes if required.
+
 
 Steps to Deploy
 Frontend: Use Vercel for deploying the React.js application.
